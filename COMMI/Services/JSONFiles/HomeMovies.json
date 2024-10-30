@@ -1,0 +1,82 @@
+{
+    "movies": [
+        
+        {
+            "movie": {
+                "id": "6",
+                "title": "Morbius",
+                "genre": "Action",
+                "rating": 5.1,
+                "image_url": "https://d.newsweek.com/en/full/1962271/morbius.jpg?w=1600&h=1600&q=88&f=6a01fee62066992c2614b2172dc73ea0",
+                "duration": "104",
+                "releaseDate": "April 1, 2021",
+                "description" : "Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism instead."
+            }
+        },
+        
+        {
+            "movie": {
+                "id": "2",
+                "title": "Uncharted",
+                "genre": "Adventure",
+                "rating": 6.3,
+                "image_url": "https://media.kg-portal.ru/movies/u/uncharted/posters/uncharted_5.jpg",
+                "duration": "116",
+                "releaseDate": "February 10, 2022",
+                "description" : "Street-smart Nathan Drake is recruited by seasoned treasure hunter Victor  Sullivan to recover a fortune amassed by Ferdinand Magellan, and lost 500 years ago by the House of Moncada."
+            }
+        },
+        
+        {
+            "movie": {
+                "id": "1",
+                "title": "The Batman",
+                "genre": "Action",
+                "rating": 8.1,
+                "image_url": "https://i.blogs.es/3aaf9f/the-batman-portada-scaled/840_560.jpeg",
+                "duration": "176",
+                "releaseDate": "March 4, 2022",
+                "description" : "When a sadistic serial killer begins murdering key political figures in Gotham, The Batman is forced to investigate the city's hidden corruption and question his family's involvement."
+            }
+        },
+        
+        {
+            "movie": {
+                "id": "5",
+                "title": "Spider-Man: No Way Home",
+                "genre": "Action",
+                "rating": 8.2,
+                "image_url": "https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/v/8/y/medium-spiderman-no-way-home-wall-poster-12x18-asstore-sp211-original-imahfzgjrcrd9bue.jpeg?q=90&crop=false",
+                "duration": "148",
+                "releaseDate": "December 15, 2021",
+                "description" : "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear."
+            }
+        },
+        
+        {
+            "movie": {
+                "id": "3",
+                "title": "The Exorcism of God",
+                "genre": "Horror",
+                "rating": 5.10,
+                "image_url": "https://m.media-amazon.com/images/M/MV5BYTI5MjkwZTYtMWFmZi00MjgwLWJhNzYtZjI1NjRiY2RhNDU1XkEyXkFqcGc@._V1_.jpg",
+                "duration": "98",
+                "releaseDate": "March 31, 2022",
+                "description" : "An American priest working in Mexico is possessed during an exorcism and ends up committing a terrible act. Eighteen years later, the consequences of his sin come back to haunt him, unleashing the greatest battle within."
+            }
+        },
+        
+        {
+            "movie": {
+                "id": "4",
+                "title": "Turning Red",
+                "genre": "Comedy",
+                "rating": 7.0,
+                "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieNRFANV8VtbVHTRIX3UPtf2yPpn4-yyw8Qb7tgfqnVJeykgP033YlGpOEvsyi6QFM1U0MZU9zlD9c5vglXJK14wPaoksFc-b09f4Q1EN6g89Wm-T7OSC5Nh8dGij1KgtkyatTfKqL8K33/s1500/486422-turning-red.jpg",
+                "duration": "100",
+                "releaseDate": "March 1, 2022",
+                "description" : "A thirteen-year-old girl named Mei Lee is torn between staying her mother's dutiful daughter and the changes of adolescence. And as if the challenges were not enough, whenever she gets overly excited she transforms into a giant red panda."
+            }
+        }
+    ]
+}

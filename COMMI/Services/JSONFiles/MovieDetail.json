@@ -1,0 +1,70 @@
+{
+    "movies": [
+        {
+            "movie": {
+                "id": "1",
+                "title": "Godzilla: Minus One",
+                "genre": "Adventure",
+                "rating": 8.1,
+                "year": "2013",
+                "image_url": "https://www.scified.com/media/godzilla-minus-one-promotional-image-111590.jpg"
+            }
+        },
+        
+        {
+            "movie": {
+                "id": "2",
+                "title": "Red One, Venom: The Last Dance",
+                "genre": "Action",
+                "rating": 7.9,
+                "year": "2024",
+                "image_url": "https://images.savoysystems.co.uk/SVN/37655133.jpg"
+            }
+        },
+        
+        {
+            "movie": {
+                "id": "3",
+                "title": "The Best Christmas Pageant Ever",
+                "genre": "Adventure",
+                "rating": 5.6,
+                "year": "2024",
+                "image_url": "https://bestchristmaspageantever.movie/images/share.jpg"
+            }
+        },
+        
+        {
+            "movie": {
+                "id": "4",
+                "title": "Wallace & Gromit: Vengeance Most Fowl",
+                "genre": "Comedy",
+                "rating": 7.1,
+                "year": "2024",
+                "image_url": "https://m.media-amazon.com/images/I/812cshEAd-L._AC_UF1000,1000_QL80_.jpg"
+            }
+        },
+        
+        
+        {
+            "movie": {
+                "id": "5",
+                "title": "Red One",
+                "genre": "Action",
+                "rating": 8.1,
+                "year": "2024",
+                "image_url": "https://i0.wp.com/jediyuth.com/wp-content/uploads/2024/09/red-one-header.jpg?resize=616%2C347&ssl=1"
+            }
+        },
+        
+        {
+            "movie": {
+                "id": "6",
+                "title": "Louder: The Soundtrack of Change",
+                "genre": "Action",
+                "rating": 5.3,
+                "year": "2024",
+                "image_url": "https://images.cdn.prd.api.discomax.com/2024/10/08/9bfdeaae-966c-3e12-9c11-52e9df3427f7.jpeg?f=jpg&q=75&w=1280&w=1200"
+            }
+        }
+    ]
+}

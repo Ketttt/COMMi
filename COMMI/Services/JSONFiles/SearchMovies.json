@@ -1,0 +1,190 @@
+{
+    "movies": [
+        {
+            "item": {
+                "id": "1",
+                "title": "The Platform (2019)",
+                "image_url": "https://static.wikia.nocookie.net/listofdeaths/images/5/54/The_Platform_poster.jpg/revision/latest?cb=20200713175016"
+            }
+        },
+        {
+            "item": {
+                "id": "2",
+                "title": "Trap (2024)",
+                "image_url": "https://resizing.flixster.com/ao8a_XDfTVufF4uEfrsOHowTEEE=/fit-in/352x330/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26478047_v_v13_am.jpg"
+                
+            }
+        },
+        {
+            "item": {
+                "id": "3",
+                "title": "Joker: Folie à Deux (2024)",
+                "image_url": "https://storage.liga.net/images/general/2024/10/04/20241004103729-7534.jpg"
+            }
+        },
+        {
+            "item": {
+                "id": "4",
+                "title": "Saw XI (2025)",
+                "image_url": "https://upload.wikimedia.org/wikipedia/ru/thumb/4/42/%D0%9F%D0%B8%D0%BB%D0%B0_11.jpg/800px-%D0%9F%D0%B8%D0%BB%D0%B0_11.jpg"
+            }
+        },
+        {
+            "item": {
+                "id": "5",
+                "title": "Dune: Part Two (2024)",
+                "image_url": "https://img3.hulu.com/user/v3/artwork/369cb9e5-1328-459a-87cf-86455422a304?base_image_bucket_name=image_manager&base_image=2f1d9d96-3884-4e60-85b9-94dcdec3977b&size=458x687&format=webp"
+            }
+        },
+        {
+            "item": {
+                "id": "6",
+                "title": "TRON: Legacy (2010)",
+                "image_url": "https://images4.alphacoders.com/262/thumb-1920-262838.jpg"
+            }
+        }
+    ],
+    "tv": [
+        
+        {
+            "item": {
+                "id": "5",
+                "title": "Ratched",
+                "image_url": "https://poptaim.com/wp-content/uploads/2020/10/ratched-2-OK.jpg"
+            }
+        },
+        
+        {
+            "item": {
+                "id": "2",
+                "title": "The Crowded Room",
+                "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg46QbBUMr9vlXBdFd_q8JuougPpeJeWk0Mg&s"
+            }
+        },
+        {
+            "item": {
+                "id": "1",
+                "title": "You",
+                "image_url": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/02/you-temporada-4-2951332.jpg?tf=1200x1200"
+            }
+        },
+        
+        {
+            "item": {
+                "id": "3",
+                "title": "American Horror Story Freak Show",
+                "image_url": "https://i.pinimg.com/originals/4f/0f/ca/4f0fcace777918406015022d30356cd2.jpg"
+            }
+        },
+        
+        {
+            "item": {
+                "id": "4",
+                "title": "Shining Girls",
+                "image_url": "https://www.film.ru/sites/default/files/images/222-30(10).jpg"
+            }
+        },
+        {
+            "item": {
+                "id": "6",
+                "title": "Moon Knight",
+                "image_url": "https://img.championat.com/i/t/v/16518475421877060679.jpg"
+            }
+        }
+    ],
+    
+    "documentary": [
+        {
+            "item": {
+                "id": "6",
+                "title": "KOKO: A talking Gorilla",
+                "image_url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/04e6ab28-f32d-4540-8eb9-d9f1e705c08e/220x330"
+            }
+        },
+        {
+            "item": {
+                "id": "3",
+                "title": "Billie Eilish: The world's a little blurry",
+                "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjhKgHmn9fzXpO5odkR70DkpqfuTR741Tu6M5YK22oV62e3akSlCIDWOfmJ3hcHArZG0o&usqp=CAU"
+            }
+        },
+        {
+            "item": {
+                "id": "1",
+                "title": "Lil Peep: Everybody's Everything",
+                "image_url": "https://kudaufa.ru//uploads/191015185517850.jpg"
+            }
+        },
+        {
+            "item": {
+                "id": "5",
+                "title": "Tongues Untied",
+                "image_url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1900788/3a41351c-a3ba-427f-8b64-6dcb7ef7e4f5/600x900"
+            }
+        },
+        {
+            "item": {
+                "id": "5",
+                "title": "Curb Your Enthusiasm",
+                "image_url": "https://wdltd.imgix.net/assets/images/site/product/1000837452_1_3546.jpg?width=700"
+            }
+        },
+        {
+            "item": {
+                "id": "2",
+                "title": "Hori Smoku Sailor Jerry The Life of Norman K Collins Documentary",
+                "image_url": "https://funtattoo.ru/wp-content/uploads/2019/12/Sailor-Jerry_Hori-Smoku_3.jpg"
+            }
+        }
+    ],
+    "sports": [
+        
+        {
+            "item": {
+                "id": "4",
+                "title": "The Redeem Team",
+                "image_url": "https://resizing.flixster.com/gfTiHPYtxLo1ATDBacrfW6fnfww=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU4MzZjYmUzLThmZmQtNGVlMy1hZTM2LTBmYWZlZWYyOWRjZS5qcGc="
+            }
+        },
+        
+        
+        {
+            "item": {
+                "id": "2",
+                "title": "Sprinter",
+                "image_url": "https://www.jamaicaglobalonline.com/wp-content/uploads/2020/04/sprinter.jpg"
+            }
+        },
+        
+        {
+            "item": {
+                "id": "3",
+                "title": "ZION",
+                "image_url": "https://pbs.twimg.com/profile_images/1026552226917969921/aov1HhNN_400x400.jpg"
+            }
+        },
+        {
+            "item": {
+                "id": "1",
+                "title": "The U: Part 2",
+                "image_url": "https://artwork.espncdn.com/films/4a01ba28-71a7-402c-8f8c-c3fd19b08f95/1x1Feature/1440_201810022022.jpg"
+            }
+        },
+       
+        {
+            "item": {
+                "id": "5",
+                "title": "Schumacher",
+                "image_url": "https://resizing.flixster.com/bB94Zoisb4b8QtQOSJC9zVlOYqY=/fit-in/352x330/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16971568_v_v13_aa.jpg"
+            }
+        },
+        
+        {
+            "item": {
+                "id": "6",
+                "title": "First Match",
+                "image_url": "https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABaiaRfbdKgZXY9B3QA9UwHZdTYqOGpx_O9H-T3wcGzqKJ8RQqPNXshRbOPFz7swl3GxA98FRTubSd1e0M353Gr-3iZT-0KX5S5oW.jpg?r=ff4"
+            }
+        }
+    ]
+}
