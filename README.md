@@ -21,9 +21,9 @@
 ## Пример видео
 
 Посмотрите видео ниже, чтобы понять, как работает приложение:
-https://github.com/user-attachments/assets/efbfa1b8-1dbf-40c9-9b2f-a0c7865d3b7f
 
+https://github.com/user-attachments/assets/1958b4ea-5e8e-46a1-bf8b-8690435f8ae1
 
+https://github.com/user-attachments/assets/518c8b41-3a33-4160-8a07-8b2d05f9aeb8
 
-
-
+https://github.com/user-attachments/assets/ed4cdea6-573b-4a0a-990d-444af65e25c2
