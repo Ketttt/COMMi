@@ -92,25 +92,25 @@ extension MovieDetailViewController: UITableViewDataSource, UITableViewDelegate 
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         switch indexPath.row {
         case 0:
-            let cell = tableView.dequeueReusableCell(withIdentifier: "MainInfoTableViewCell", for: indexPath) as! MainInfoTableViewCell
+            guard let cell = tableView.dequeueReusableCell(withIdentifier: "MainInfoTableViewCell", for: indexPath) as? MainInfoTableViewCell else { return UITableViewCell() }
             cell.contentView.backgroundColor = UIColor.main
             cell.setData(movie: movie)
             return cell
             
         case 1:
-            let cell = tableView.dequeueReusableCell(withIdentifier: "ExtraInfoTableViewCell", for: indexPath) as! ExtraInfoTableViewCell
+            guard let cell = tableView.dequeueReusableCell(withIdentifier: "ExtraInfoTableViewCell", for: indexPath) as? ExtraInfoTableViewCell else { return UITableViewCell() }
             cell.contentView.backgroundColor = UIColor.main
             cell.setData(movie: movie)
             return cell
             
         case 2:
-            let cell = tableView.dequeueReusableCell(withIdentifier: "DescriptionTableViewCell", for: indexPath) as! DescriptionTableViewCell
+            guard let cell = tableView.dequeueReusableCell(withIdentifier: "DescriptionTableViewCell", for: indexPath) as? DescriptionTableViewCell else { return UITableViewCell() }
             cell.contentView.backgroundColor = UIColor.main
             cell.setData(movie: movie)
             return cell
             
         case 3:
-            let cell = tableView.dequeueReusableCell(withIdentifier: "RelatedMovieCell", for: indexPath) as! RelatedMovieCell
+            guard let cell = tableView.dequeueReusableCell(withIdentifier: "RelatedMovieCell", for: indexPath) as? RelatedMovieCell else { return UITableViewCell() }
             cell.contentView.backgroundColor = UIColor.main
             Task {
                 await cell.setMoviesData(trending)
@@ -131,12 +131,9 @@ extension MovieDetailViewController: UITableViewDataSource, UITableViewDelegate 
 extension MovieDetailViewController: IMovieDetailView {
     func relatedMovies(movies: [TrendingMovie]) async {
         self.trending = movies
-        await MainActor.run { [weak self] in
-            guard let self = self else { return }
-            self.tableView.reloadData()
-        }
+        self.tableView.reloadData()
     }
-    
+
     func movieDetail(movie: TrendingMovie) async {
         self.movie = movie
         await MainActor.run { [weak self] in
@@ -146,7 +143,7 @@ extension MovieDetailViewController: IMovieDetailView {
                                                 placeholder: UIImage(named: "placeholder"),
                                                 options: [.transition(.fade(0.2)), .backgroundDecode])
             }
-            self.tableView.reloadData()
         }
+        self.tableView.reloadData()
     }
 }
