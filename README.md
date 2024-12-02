@@ -22,7 +22,6 @@
 
 Посмотрите видео ниже, чтобы понять, как работает приложение:
 https://github.com/user-attachments/assets/efbfa1b8-1dbf-40c9-9b2f-a0c7865d3b7f
-https://github.com/user-attachments/assets/88de5c59-d462-4950-811b-c4437aac3f01
 
 
 
